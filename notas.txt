@@ -1,2 +1,5 @@
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILHSqsZYkRY9lNdE1B39L74PANJ0nIwdZ0JL77gVOcN4 ivan@DESKTOP-JIRCJML
 
+\Users\Ivan\Desktop\Django\projeto1git
+
+git@github.com:guedinho953\curso-django-projeto1
